@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yL3IMlh8SPGXJLZink+baOl2XHdWTf9/nIDZTpYV9B4m/enAvIiT5LRq6GE8xRwzdK5o7H4KKVofd/XHbxUtJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\idan0\\Desktop\\corona-store\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\idan0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
