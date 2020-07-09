@@ -1,0 +1,11 @@
+pandemic locations:
+- after filter city doesn't show stats, only until press on map
+
+shop:
+- filter is hidden by navbar
+- hover on new product
+
+login/register modals:
+- change ui
+
+manager: 
